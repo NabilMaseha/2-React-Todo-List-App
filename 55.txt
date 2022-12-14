@@ -1,0 +1,12 @@
+  // useEffect(()=>{
+    //     console.log(user);
+
+    // },[user]);
+
+
+
+        // console.log(x.target.name);
+
+
+
+
